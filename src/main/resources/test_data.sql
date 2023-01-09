@@ -1,1 +1,0 @@
-insert into data_base_entry()
